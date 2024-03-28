@@ -1,0 +1,57 @@
+/* body styles added */
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+
+}
+
+/* header styles added */
+nav {
+    background: rgba(243, 83, 118, 0.1);
+    padding: 30px 200px 0 120px;
+}
+
+.header-container {
+    display: flex;
+}
+
+.header-column {
+    margin-right: 97px;
+}
+
+.header-title {
+    color: rgb(39, 39, 39);
+    font-size: 60px;
+    font-weight: 800;
+    text-align: left;
+    width: 540px;
+    margin-bottom: 0;
+    margin-top: 120px;
+}
+
+.header-discription {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    width: 480px;
+    margin-top: 32px;
+    margin-bottom: 0;
+}
+
+.btn-primary {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 8px;
+    background: rgb(229, 84, 115);
+    width: 150px;
+    height: 45px;
+    border: 0;
+    margin-top: 32px;
+}
+
+.flower-image {
+    width: 450px;
+}
