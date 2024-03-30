@@ -55,3 +55,129 @@ nav {
 .flower-image {
     width: 450px;
 }
+
+/* first section styles added */
+.first-section {
+    margin: 110px 120px 110px;
+}
+
+.flower-items {
+    width: 200px;
+    height: 280px;
+    padding: 70px 40px 0px;
+    margin-top: 15px;
+}
+
+div>ul {
+    display: flex;
+    text-align: center;
+}
+
+div li {
+    list-style: none;
+
+}
+
+#background-color-1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-right: 0;
+    margin-left: 62px;
+}
+
+#background-color-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+#background-color-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 200px;
+}
+
+.padding-botton .first-section-title {
+    color: rgb(39, 39, 39);
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.first-section-title {
+    color: rgb(39, 39, 39);
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.first-section-discription {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 13px;
+    font-weight: 400;
+    text-align: center;
+    width: 540px;
+    padding-left: 275px;
+    margin-bottom: 0;
+}
+
+.image-sub-title {
+    color: rgb(39, 39, 39);
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+#text {
+    padding-left: 55px;
+}
+
+/* second-section-styles-added */
+.second-section {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 100px 102px;
+}
+
+div>ol {
+    list-style: none;
+    display: flex;
+    padding: 40px 60px;
+    align-items: center;
+    width: 900px;
+    gap: 40px;
+}
+
+.small-image {
+    width: 77px;
+    margin-left: 70px;
+    margin-bottom: 0;
+}
+
+/* 2nd list styles added */
+#title-right {
+    margin-left: 20px;
+}
+
+#image-left {
+    margin-left: 75px;
+}
+
+/* 3rd list styles added */
+#margin-left-image {
+    margin-right: 20px;
+}
+
+#image-right {
+    margin-right: 90px;
+}
+
+.image-title {
+    color: rgba(39, 39, 39, 0.8);
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 10px;
+}
