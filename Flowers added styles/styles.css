@@ -138,7 +138,7 @@ div li {
 .second-section {
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    margin: 100px 102px;
+    margin: 30px 220px;
 }
 
 div>ol {
@@ -147,7 +147,7 @@ div>ol {
     padding: 40px 60px;
     align-items: center;
     width: 900px;
-    gap: 40px;
+    gap: 55px;
 }
 
 .small-image {
@@ -162,16 +162,16 @@ div>ol {
 }
 
 #image-left {
-    margin-left: 75px;
+    margin-left: 100px;
 }
 
 /* 3rd list styles added */
-#margin-left-image {
-    margin-right: 20px;
+#margin-left-title {
+    margin-left: 40px;
 }
 
 #image-right {
-    margin-right: 90px;
+    margin-right: 20px;
 }
 
 .image-title {
@@ -181,3 +181,184 @@ div>ol {
     text-align: center;
     margin-top: 10px;
 }
+
+/* 3rd section styles added */
+.third-section-container {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(247, 74, 112, 0.05);
+    margin: 128px 0;
+
+}
+
+.third-section-title {
+    font-size: 35px;
+    font-weight: 800;
+    text-align: left;
+    width: 537px;
+    margin: 215px 0px 0px 300px;
+}
+
+.off-style-added {
+    color: rgb(229, 84, 115);
+}
+
+.third-section-discription {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    width: 530px;
+    margin: 24px 0px 0px 265px;
+
+}
+
+.btn-primary-third {
+    border-radius: 8px;
+    background: rgb(229, 84, 115);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    border: 0;
+    width: 120px;
+    height: 54px;
+    margin: 20px 0px 160px 465px;
+}
+
+.third-section-flower {
+    padding: 90px 250px 90px 0;
+    width: 300px;
+
+}
+
+/* fourth-section-styles-added */
+.fourth-section-title {
+    color: rgb(39, 39, 39);
+    font-size: 28px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 0;
+    margin-left: 30px;
+}
+
+.fourth-section-discription {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    width: 594px;
+    margin: 13px 0px 0px 155px;
+}
+
+.fourth-section-column-one {
+    margin: 120px 220px 0;
+}
+
+.fourth-section-column-two {
+    margin-left: 150px;
+    margin-top: 45px;
+}
+
+.fourth-flower {
+    width: 230px;
+    margin-right: 14px;
+}
+
+/* fifth-section-styles-added */
+.fifth-section {
+    background-image: url('/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 962px;
+    margin-left: 15px;
+    margin-top: 120px;
+}
+
+.fifth-section-title {
+    color: rgb(39, 39, 39);
+    font-size: 28px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 0;
+}
+
+.fifth-section-discription {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 13px;
+    margin-bottom: 0;
+}
+
+.btn-fifth-section {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    width: 120px;
+    height: 37px;
+    border-radius: 8px;
+    background: rgb(229, 84, 115);
+    border: 0;
+    margin-left: 6px;
+}
+
+.input-email-style {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    padding: 10px 220px 10px 20px;
+    margin-bottom: 121px;
+    border: 0;
+}
+
+#fifth-input {
+    margin-left: 390px;
+    margin-top: 40px;
+
+}
+
+/* footer-styles-added */
+footer {
+    background-color: black;
+    height: 400px;
+    margin-top: 120px;
+}
+
+.footer-title {
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 120px;
+    margin-bottom: 0;
+}
+
+.flower-text-color {
+    color: rgb(229, 84, 115);
+}
+
+.footer-discription {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    width: 500px;
+    padding-left: 410px;
+    margin-top: 24px;
+    margin-bottom: 0;
+}
+
+.footer-sub-title {
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 32px;
+}
+
+/* khatam */
